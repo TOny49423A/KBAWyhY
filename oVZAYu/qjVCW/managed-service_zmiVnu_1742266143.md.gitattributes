@@ -5,7 +5,6 @@
 *.sln eol=crlf
 
 # Script files
-*.cmd eol=crlf
 *.ps1 eol=crlf
 *.bat eol=crlf
 *.sh eol=lf
