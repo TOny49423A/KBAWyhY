@@ -31,7 +31,6 @@
   https://js.coach/  
   An automatically-updated searchable and categorized list of JS packages related to React, Webpack, Babel, and more.
   
-- **Awesome React Components**  
   https://github.com/brillout/awesome-react-components  
   Catalog of React components / libraries
   
