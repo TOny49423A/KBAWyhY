@@ -29,7 +29,6 @@ github:
     - table-store
     - flink
     - spark
-  enabled_merge_buttons:
     squash: true
     merge: false
     rebase: true
